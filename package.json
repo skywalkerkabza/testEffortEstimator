@@ -1,0 +1,20 @@
+{
+  "name": "testeffortestimator",
+  "version": "1.0.0",
+  "description": "Creating a test case calculator that estimates effort, cost, and the number of test cases can be a useful tool for testers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kabelo Modipa",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skywalkerkabza/testEffortEstimator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/skywalkerkabza/testEffortEstimator/issues"
+  },
+  "homepage": "https://github.com/skywalkerkabza/testEffortEstimator#readme"
+}
