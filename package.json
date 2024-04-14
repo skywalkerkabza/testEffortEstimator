@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/skywalkerkabza/testEffortEstimator/issues"
   },
-  "homepage": "https://github.com/skywalkerkabza/testEffortEstimator#readme"
+  "homepage": "https://github.com/skywalkerkabza/testEffortEstimator#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "node": "^18.20.2"
+  }
 }
